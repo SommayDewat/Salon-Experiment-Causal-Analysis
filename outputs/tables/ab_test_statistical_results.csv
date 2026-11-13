@@ -1,0 +1,2 @@
+control_customers,treatment_customers,control_retention,treatment_retention,absolute_effect,relative_lift,ci_95_lower,ci_95_upper,z_statistic,p_value,statistically_significant,preliminary_decision
+20006,19994,0.5008997300809757,0.5254576372911873,0.02455790721021167,0.049027591223180796,0.014762054434092692,0.034347091969601146,4.9132872201339275,8.956192331889749e-07,True,GO - Positive retention effect detected

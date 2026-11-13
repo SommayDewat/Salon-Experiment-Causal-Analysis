@@ -1,0 +1,4 @@
+variable,chi_square_p_value,max_absolute_proportion_difference
+customer_segment,0.3430284854939206,0.006658155599233995
+home_outlet,1.0,2.811000252989776e-05
+sample_ratio_mismatch,0.9521556346917863,0.00014999999999998348

@@ -1,0 +1,8 @@
+metric,value
+Manual DiD estimate,5.881405590444011
+Fixed-effects DiD estimate,5.881405590444009
+95% CI lower,4.190324040144578
+95% CI upper,7.572487140743441
+DiD p-value,9.325232303780665e-12
+Pre-trend interaction coefficient,-0.006012286966636322
+Pre-trend p-value,0.950877641005549

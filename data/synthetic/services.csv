@@ -1,0 +1,7 @@
+service_id,standard_service_name,base_price,category
+SV01,Haircut,500,Hair
+SV02,Hair Coloring,1800,Hair
+SV03,Facial,1200,Skin
+SV04,Manicure,600,Nails
+SV05,Pedicure,700,Nails
+SV06,Spa Therapy,2000,Wellness
